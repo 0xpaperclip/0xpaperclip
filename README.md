@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0xpaperclip
+- 👀 I’m interested in Ethereum and frontend stuff
+- 🐦 Follow me on Twitter [@0xpaperclip](https://twitter.com/0xpaperclip)
